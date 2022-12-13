@@ -2,7 +2,7 @@
 
 ## Understanding MVC Concept in Golang with authentication using JWT
 
-### How to run di apps ?
+### How to run the apps ?
 
 - Rename `.env.example` file to `.env`
 - Then please, filled the db requirements connection in `.env` file
